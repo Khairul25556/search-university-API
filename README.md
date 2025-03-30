@@ -16,4 +16,4 @@ A simple web app that allows users to search for universities based on the count
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/search-university-API.git
+   git clone https://github.com/Khairul25556/search-university-API.git
